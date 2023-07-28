@@ -1,0 +1,29 @@
+.navbar{
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.background-color-home{
+    background-color: #feeae9;
+    border-radius: 20px;
+}
+.container{
+    margin-top: 20px;
+}
+.row{
+    padding: 10px 20px;
+}
+.h1-price{
+    color: #ff3a88;
+}
+.ios1{
+    background-color: orange;
+    border-radius: 20px;
+}
+.ios2{
+    background-color: #ff3a88;
+    border-radius: 20px;
+}
+.ios3{
+    background-color: blue;
+    border-radius: 20px;
+}
