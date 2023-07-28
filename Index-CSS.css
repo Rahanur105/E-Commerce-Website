@@ -15,15 +15,19 @@
 .h1-price{
     color: #ff3a88;
 }
+.ios1, .ios2, .ios3{
+    padding: 10px 50px;
+    border-radius: 20px;
+}
 .ios1{
     background-color: orange;
-    border-radius: 20px;
+    
 }
 .ios2{
     background-color: #ff3a88;
-    border-radius: 20px;
+   
 }
 .ios3{
     background-color: blue;
-    border-radius: 20px;
+   
 }
